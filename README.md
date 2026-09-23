@@ -28,4 +28,4 @@ A Streamlit application that simulates loan and credit card repayment outcomes b
 ## Live Demo
 
 Streamlit App:
-https://loan-creditcard-app-simulator-fxcjsdlsvmqkpqdpkq2rhd.streamlit.app/
+https://loan-creditcard-simulator.streamlit.app/
